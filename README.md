@@ -1,8 +1,5 @@
 # aviation-mcp-serv
 
-A Model Context Protocol (MCP) server built with [mcp-framework](https://github.com/QuantGeekDev/mcp-framework).
-
----
 
 ## Quick Start
 
