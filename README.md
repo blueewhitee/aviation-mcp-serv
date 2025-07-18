@@ -44,17 +44,6 @@ aviation-mcp-serv/
 
 ---
 
-## Environment Variables
-
-Create a `.env` file in the project root with the following:
-
-```
-AVIATIONSTACK_API_KEY=your_api_key_here
-```
-
-This is required for tools that access the AviationStack API.
-
----
 
 ## Tool Development
 
